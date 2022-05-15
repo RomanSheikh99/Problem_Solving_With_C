@@ -30,7 +30,7 @@ int main(){
 
 
 
-// way 2 start 
+// way 2 start
 
 
 /*
@@ -68,4 +68,4 @@ int main(){
 
     return 0;
 }
-*\
+*/
